@@ -2,13 +2,12 @@
 
 [![npm version](https://badge.fury.io/js/eslint-config-stlato.svg)](https://badge.fury.io/js/eslint-config-stlato)
 
-A sharable ESLint config for stlato
+A sharable ESLint config for React TypeScript project.
 
 ## Install
 
 ```sh
-yarn add --dev eslint prettier typescript react // install peerDependencies
-yarn add --dev eslint-config-stlato
+yarn add -D eslint-config-stlato
 ```
 
 ## How to use
@@ -26,4 +25,3 @@ Run `eslint`!
 ```sh
 yarn eslint 'src/**/*.{js,jsx,ts,tsx}'
 ```
-# eslint-config-stlato
